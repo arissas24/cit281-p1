@@ -39,9 +39,21 @@ This lab introduced the essential setup and foundational skills needed to begin 
 
 ---
 
-## Screenshots
+## Project Images
 
+<img src="/assets/images/p1-folders.png" alt="Project Screenshot 1" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
+<img src="/assets/images/p1-break.png" alt="Project Screenshot 2" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+
+<img src="/assets/images/p1-ping.png" alt="Project Screenshot 3" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+
+---
+
+## Lab Images
+
+<img src="/assets/images/lab-01-folders.png" alt="Lab Screenshot 1" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+
+<img src="/assets/images/lab-01-node.png" alt="Lab Screenshot 2" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
