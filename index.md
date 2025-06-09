@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Project 1 - Command Line and Node.js Basics
+theme: jekyll-theme-cayman
 ---
 
 # Project 1: Command Line and Node.js Basics
@@ -41,19 +42,19 @@ This lab introduced the essential setup and foundational skills needed to begin 
 
 ## Project Images
 
-<img src="/assets/images/p1-folders.png" alt="Project Screenshot 1" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/p1-folders.png" alt="Project Screenshot 1" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
-<img src="/assets/images/p1-break.png" alt="Project Screenshot 2" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/p1-break.png" alt="Project Screenshot 2" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
-<img src="/assets/images/p1-ping.png" alt="Project Screenshot 3" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/p1-ping.png" alt="Project Screenshot 3" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
 ## Lab Images
 
-<img src="/assets/images/lab-01-folders.png" alt="Lab Screenshot 1" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/lab-01-folders.png" alt="Lab Screenshot 1" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
-<img src="/assets/images/lab-01-node.png" alt="Lab Screenshot 2" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/lab-01-node.png" alt="Lab Screenshot 2" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
