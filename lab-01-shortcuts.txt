@@ -1,0 +1,44 @@
+Copy selected text to clipboard (copy/paste buffer)
+⌘ + C
+
+Paste from buffer
+⌘ + V
+
+Cut selected text to buffer (selected text is deleted)
+⌘ + X 
+
+Save current file in VSCode
+⌘ + S
+
+Toggle block comment in VSCode
+⇧ + ⌥ + A
+
+Toggle line comment in VSCode
+⌘ + /
+
+Move cursor from word to word right
+⌥ + → 
+
+Move cursor from word to word left
+⌥ + ← 
+
+Select word right
+⇧ + ⌥ + → 
+
+Select word left
+⇧ + ⌥ + ←
+
+Select all contents
+⌘ + A
+
+Select current line, including end of line character
+⌘ + L
+
+Jump to start of line
+⌘ + ←
+
+Jump to end of line
+⌘ + →
+
+Jump to beginning of current file
+⌘ + ↑

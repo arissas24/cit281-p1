@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 arissa  staff   0 Apr 10 22:23 lab-01-folders.txt
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p1
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p2
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p3
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p4
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p5
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p6
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p7
+drwxr-xr-x  2 arissa  staff  64 Apr 10 22:21 p8
